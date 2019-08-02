@@ -1,0 +1,9 @@
+class ValidorMixin {
+  emailValidor() {
+
+  }
+
+  passwordValidor() {
+    
+  }
+}
